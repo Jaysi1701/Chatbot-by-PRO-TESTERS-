@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Team Pro-Testers Internship Training Project 
+Team Pro-Testers Intel Internship Training Project 
 
 ### Topic 
 Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot
